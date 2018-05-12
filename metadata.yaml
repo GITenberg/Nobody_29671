@@ -1,0 +1,32 @@
+_repo: Nobody_29671
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Jacobs, W. L.
+    gutenberg_agent_id: '34068'
+    url: http://www.gutenberg.org/2009/agents/34068
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Vance, Louis Joseph
+    birthdate: 1879
+    deathdate: 1933
+    gutenberg_agent_id: '2870'
+    url: http://www.gutenberg.org/2009/agents/2870
+description: ''
+gutenberg_issued: '2009-08-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29671'
+  lccn: '15020561'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PS'
+title: Nobody
+url: http://www.gutenberg.org/ebooks/29671
